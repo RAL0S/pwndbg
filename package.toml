@@ -1,0 +1,8 @@
+[package_detail]
+name = "pwndbg"
+description = "Exploit Development and Reverse Engineering with GDB Made Easy"
+version = "2026.02.18"
+source_url = "https://github.com/pwndbg/pwndbg"
+license = "MIT"
+install_script = "setup.sh"
+install_script_type = "shell"
